@@ -1,3 +1,7 @@
+Result:
+[DEMO LINK](https://YaroslavKononenko.github.io/Kickstarter/)
+
+Task:
 # Kickstarter landing page (HARD)
 
 **⚠️ Attention: this is a hard landing page for development. We highly recommend choosing this landing page only if you didn't have a lot of troubles with previous homework tasks and if you sent all homework in time (didn't miss deadlines).**
